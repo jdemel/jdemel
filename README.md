@@ -1,11 +1,16 @@
-### Hi there 👋
+## Hi there 👋, welcome to my profile page
+
+My name is Johannes Demel. I'm with the [Department of Communications Engineering](https://www.ant.uni-bremen.de) at the [University of Bremen](https://uni-bremen.de) to pursue my PhD in Communications Engineering 📡. Besides, I'm a [GNU Radio](https://gnuradio.org) user and developer. Together with [Michael Dickens](https://github.com/michaelld), we maintain the [Vector-Optimized Library of Kernels (VOLK)](https://libvolk.org).
+
+
+- 🔭 I’m currently writing my PhD thesis 📕 which includes a GNU Radio demo where [AGVs](https://en.wikipedia.org/wiki/Automated_guided_vehicle) 🤖 use our communication system for ultra reliable low latency communication.
+
 
 <!--
 **jdemel/jdemel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
